@@ -1,0 +1,17 @@
+#!~			~~~~~~~~ PRECISION MICRODRIVES - GEARMOTOR DRIVER ~~~~~~~~~~~~~~~		     ~!#
+#!~					RELEASE RECORD							     ~!#
+#
+# -VERSION -  -------------------------- DESCRIPTION--------------------------------------  -AUTHOR-   -DATE-
+#
+#   v1.0      unidirectionl NPN transistor drive with PWM/Speed control and emergency stop     TC     15/04/2020 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #  
